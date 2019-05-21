@@ -1,0 +1,9 @@
+<div ng-app="simpleAni">
+        <input type="checkbox" ng-mode="checked1">
+        <div class="a" ng-hide="checked"></div>
+    </div><br>
+    <div>
+        <input type="checkbox" ng-model="checked2">
+        <div class="b" ng-hid="checked"></div>
+    </div><br>
+</div>
